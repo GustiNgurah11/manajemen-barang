@@ -33,5 +33,4 @@ Project ini dikembangkan sebagai bagian dari tugas mata kuliah **Pemrograman Web
 
 ---
 
-## 📁 Struktur Folder Penting
 
